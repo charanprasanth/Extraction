@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/drawable/ic_add.xml" value="0.20210970464135022" />
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/drawable/ic_copy.xml" value="0.20210970464135022" />
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/drawable/sheet_bg.xml" value="0.20210970464135022" />
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/drawable/stroke.xml" value="0.20210970464135022" />
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/GANESH L S/AndroidStudioProjects/MachineLearningKit/app/src/main/res/layout/text_sheet.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

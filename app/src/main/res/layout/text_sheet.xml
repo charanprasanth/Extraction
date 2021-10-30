@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="370dp"
+    android:background="@drawable/sheet_bg"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/closeBtn"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ic_close" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="15dp"
+            android:text="Extracted Text"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-light"
+            android:textSize="19sp"/>
+
+        <ImageView
+            android:id="@+id/copyBtn"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_copy"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:textIsSelectable="true"
+        android:longClickable="true"
+        android:lineSpacingExtra="3dp"
+        android:letterSpacing="0.045"
+        android:textColor="@color/black"
+        android:text="lizeh liuefh isllsuudh co;zaia foafhs f;orf ;oaSf uoa ;aohdef auHF sg loEF ;AOUHV LIUSUHSUUEHG SUIZHG ;OSU ;SOUH G;OSZHG O;SRHG; O HR OGHESIOHG AEH G;H \N KAUIGRI\N AIEF I UI\n skuerg iaeguuhiu luerhg uerilugh eruhougeoh uh eroghrs hgiusrh g.uzhlkguihliusdddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh reh laeh lu aelugug li glgzl rgus hs hurlug"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
